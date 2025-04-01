@@ -21,7 +21,6 @@ Bu projede kullanılan veri seti Kaggle üzerinden elde edilmiştir.
 - Scikit-Learn
 - CountVectorizer
 - RandomForestClassifier
-- Diğer gerekli kütüphaneler (detaylar için `requirements.txt` dosyasına bakın)
 
 ## Kurulum
 
