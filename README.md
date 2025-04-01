@@ -27,4 +27,4 @@ Bu projede kullanılan veri seti Kaggle üzerinden elde edilmiştir.
 
 1. Bu repository'i bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/BankaOperatör.git
+   git clone https://github.com/Orcunysr/BankaOperatör.git
